@@ -29,6 +29,25 @@ https://web.archive.org/web/20010202203600/http://www.twogiraffes.ru/catalog.htm
 ("Сказка о золотом петушке", "Сказка о рыбаке и рыбке", "Сказка о мертвой царевне и семи богатырях").
 
 ### ++ C006 "Сказки Г.Х.Андерсена" в исполнении ОЛЕГА ТАБАКОВА
+
+960
+
+<img width="1469" height="960" alt="006" src="https://github.com/user-attachments/assets/1d788255-6ded-4d23-8495-b2036936ca13" />
+
+600
+
+<img width="918" height="600" alt="006-600px" src="https://github.com/user-attachments/assets/c15dc2de-adbf-42f5-8a25-e1e0941c3f3d" />
+
+400
+
+<img width="612" height="400" alt="006-400px" src="https://github.com/user-attachments/assets/69041408-67db-479a-bb70-6f78dbe8af3c" />
+
+300
+
+<img width="459" height="300" alt="006-300px" src="https://github.com/user-attachments/assets/1abb406b-1a75-4712-9f24-11e8c38605ab" />
+
+
+
 ("Гадкий утенок", "Стойкий оловянный солдатик", "Девочка со спичками").
 
 ### ++ C007 "Сказки братьев Гримм" в исполнении ВАЛЕНТИНА ГАФТА
