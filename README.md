@@ -46,6 +46,10 @@ https://web.archive.org/web/20010202203600/http://www.twogiraffes.ru/catalog.htm
 
 <img width="459" height="300" alt="006-300px" src="https://github.com/user-attachments/assets/1abb406b-1a75-4712-9f24-11e8c38605ab" />
 
+1100
+
+<img width="1683" height="1100" alt="006-1100px" src="https://github.com/user-attachments/assets/866f1828-8234-494d-8325-8e2708ae72c6" />
+
 
 
 ("Гадкий утенок", "Стойкий оловянный солдатик", "Девочка со спичками").
