@@ -32,7 +32,7 @@ https://web.archive.org/web/20010202203600/http://www.twogiraffes.ru/catalog.htm
 
 960
 
-<img width="1469" height="960" alt="006" src="https://github.com/user-attachments/assets/1d788255-6ded-4d23-8495-b2036936ca13" />
+<img width="1469" height="400" alt="006" src="https://github.com/user-attachments/assets/1d788255-6ded-4d23-8495-b2036936ca13" />
 
 600
 
