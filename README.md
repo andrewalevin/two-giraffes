@@ -13,7 +13,7 @@
 
 ### C001 "Избранные Сказки" в исполнении ЮРИЯ ЯКОВЛЕВА
 
-<img width="1683" height="1100" alt="001-1100px" src="https://github.com/user-attachments/assets/934c3b26-0c6c-485e-b772-1aadfef1a928" />
+<img height="400" alt="001-1100px" src="https://github.com/user-attachments/assets/934c3b26-0c6c-485e-b772-1aadfef1a928" />
 
 ("Машенька и медведь", "Три поросенка", "По-щучьему велению", "Кот в сапогах").
 
@@ -39,7 +39,7 @@
 
 ### C005 "Сказки А.С.Пушкина" в исполнении ОЛЕГА ТАБАКОВА
 
-<img width="1691" height="1100" alt="005-1100px" src="https://github.com/user-attachments/assets/203f77f3-2436-491a-90b3-c7378cc2bb0b" />
+<img height="400" alt="005-1100px" src="https://github.com/user-attachments/assets/203f77f3-2436-491a-90b3-c7378cc2bb0b" />
 
 ("Сказка о золотом петушке", "Сказка о рыбаке и рыбке", "Сказка о мертвой царевне и семи богатырях").
 
@@ -47,14 +47,14 @@
 
 ### C006 "Сказки Г.Х.Андерсена" в исполнении ОЛЕГА ТАБАКОВА
 
-<img width="1683" height="1100" alt="006-1100px" src="https://github.com/user-attachments/assets/866f1828-8234-494d-8325-8e2708ae72c6" />
+<img height="400" alt="006-1100px" src="https://github.com/user-attachments/assets/866f1828-8234-494d-8325-8e2708ae72c6" />
 
 ("Гадкий утенок", "Стойкий оловянный солдатик", "Девочка со спичками").
 
 
 ### C007 "Сказки братьев Гримм" в исполнении ВАЛЕНТИНА ГАФТА
 
-<img width="1692" height="1100" alt="007-1100px" src="https://github.com/user-attachments/assets/6d331fad-fb6f-4cac-809d-83e595a177b0" />
+<img height="400" alt="007-1100px" src="https://github.com/user-attachments/assets/6d331fad-fb6f-4cac-809d-83e595a177b0" />
 
 ("Король-Дроздовик", "Умная Гретель", "Королек и медведь", "Белоснежка и Алоцветик", "Румпельштильтхен").
 
@@ -62,7 +62,7 @@
 
 ### C008 "Русские народные сказки" в исполнении ЛЬВА ДУРОВА
 
-<img width="1689" height="1100" alt="008-1100px" src="https://github.com/user-attachments/assets/7da461a1-56be-4a2f-a4a4-fefc571fa9b1" />
+<img height="400" alt="008-1100px" src="https://github.com/user-attachments/assets/7da461a1-56be-4a2f-a4a4-fefc571fa9b1" />
 
 ("Царевна-лягушка", "Сестрица Аленушка и братец Иванушка", "Иван-царевич и серый волк", "Крошечка-Хаврошечка").
 
@@ -100,7 +100,7 @@
 
 ### C014 "Лесная азбука" Владимира Зотова с участием ВЯЧЕСЛАВА НЕВИННОГО
 
-<img width="2292" height="1100" alt="014-1100px" src="https://github.com/user-attachments/assets/65c4e3db-7e69-48ed-be78-4f94e26a2ecc" />
+<img height="400" alt="014-1100px" src="https://github.com/user-attachments/assets/65c4e3db-7e69-48ed-be78-4f94e26a2ecc" />
 
 ("Барсук", "Выдра", "Крот", "Ласка", "Лягушка", "Иволга", "Ремез", "Кукушка", "Стрекоза", "Липа", "Крушина", "Черника", "Вороний глаз", "Лисичка", "Белый гриб", "Бледная поганка", "Ландыш", "Иван-да-Марья", "Колокольчик").
 
@@ -138,7 +138,7 @@
 
 ### C020 "Твои первые сказки" в исполнении ИРИНЫ МУРАВЬЕВОЙ И АЛЕКСЕЯ БАТАЛОВА
 
-<img width="1686" height="1100" alt="020-1100px" src="https://github.com/user-attachments/assets/ab48b995-59dc-4ad8-bf3d-3941cebf0f82" />
+<img height="400" alt="020-1100px" src="https://github.com/user-attachments/assets/ab48b995-59dc-4ad8-bf3d-3941cebf0f82" />
 
 ("Красная Шапочка", "Золушка", "Дюймовочка").
 
@@ -182,9 +182,9 @@
 
 ### C027 "Трое из Простоквашино" с участием НИКОЛАЯ ЛИТВИНОВА и ВСЕВОЛОДА АБДУЛОВА
 
-<img width="1686" height="1100" alt="027-part-2-1100px" src="https://github.com/user-attachments/assets/6eb783fe-4f5e-4867-8825-75c9c6f9141f" />
+<img height="400" alt="027-part-2-1100px" src="https://github.com/user-attachments/assets/6eb783fe-4f5e-4867-8825-75c9c6f9141f" />
 
-<img width="1686" height="1100" alt="027-part-1-1100px" src="https://github.com/user-attachments/assets/9b3b6eee-fc7c-46b9-9708-9a4dc98e8b60" />
+<img height="400" alt="027-part-1-1100px" src="https://github.com/user-attachments/assets/9b3b6eee-fc7c-46b9-9708-9a4dc98e8b60" />
 
 (сказка о приключениях мальчика Дяди Федора, кота Матроскина и пса Шарика. Автор - Эдуард Успенский). Двойной альбом.
 
@@ -193,7 +193,7 @@
 
 ### C028 "Дорожные приключения" с участием ЕВГЕНИЯ ВЕСТНИКА 
 
-<img width="1687" height="1100" alt="028-1100px" src="https://github.com/user-attachments/assets/198115a0-e652-4878-a88f-f7b3ca924dd1" />
+<img height="400" alt="028-1100px" src="https://github.com/user-attachments/assets/198115a0-e652-4878-a88f-f7b3ca924dd1" />
 
 (сказка Владимира Зотова об увлекательных приключениях известных сказочных героев в волшебном городе Светофорске). Кассета выпущена при участии ГАИ г. Москвы.
 
@@ -201,7 +201,7 @@
 
 ### C029 "Лесная азбука" Владимира Зотова с участием ОЛЕГА АНОФРИЕВА
 
-<img width="1674" height="1100" alt="029-1100px" src="https://github.com/user-attachments/assets/7df7dfff-8bbf-4366-97f2-d51bb76e722d" />
+<img height="400" alt="029-1100px" src="https://github.com/user-attachments/assets/7df7dfff-8bbf-4366-97f2-d51bb76e722d" />
 
 ("Куница", "Леопард", "Галка", "Зимородок", "Лесной конек", "Снегирь", "Поползень", "Златка", "Кузнечик", "Травница", "Павлиний глаз", "Жимолость", "Ясень", "Ольха", "Рябина", "Костяника", "Опенок летний", "Опенок осенний", "Подосиновик", "Рядовка серая", "Адонис", "Медуница", "Недотрога", "Осока").
 
@@ -233,7 +233,7 @@
 
 ### C034 "Спящая красавица и другие сказки Шарля Перро" в исполнении КЛАРЫ РУМЯНОВОЙ И СЕРГЕЯ ЮРСКОГО
 
-<img width="1684" height="1100" alt="034-1100px" src="https://github.com/user-attachments/assets/23750f3d-533e-4648-baa1-8decc5c54f24" />
+<img height="400" alt="034-1100px" src="https://github.com/user-attachments/assets/23750f3d-533e-4648-baa1-8decc5c54f24" />
 
 ("Спящая красавица", "Мальчик с пальчик", "Рике с хохолком").
 
@@ -259,7 +259,7 @@
 
 ### C040 "Азбука для малышей" с участием ЭММАНУИЛА ВИТОРГАНА
 
-<img width="1690" height="1100" alt="040-1100px" src="https://github.com/user-attachments/assets/f9da21de-ce17-42ed-af97-a8deea04fe02" />
+<img height="400" alt="040-1100px" src="https://github.com/user-attachments/assets/f9da21de-ce17-42ed-af97-a8deea04fe02" />
 
 (Буквы азбуки "оживают" в стихах Б.Заходера, С.Маршака, М.Либина, Г.Сапгира и других известных детских писателей).
 
@@ -279,7 +279,7 @@
 
 ### С043 А.С.Пушкин "Сказка о царе Салтане" с участием ИННОКЕНТИЯ СМОКТУНОВСКОГО
 
-<img width="1692" height="1100" alt="043-1100px" src="https://github.com/user-attachments/assets/00403817-7931-4e08-9254-923fdef8f870" />
+<img height="400" alt="043-1100px" src="https://github.com/user-attachments/assets/00403817-7931-4e08-9254-923fdef8f870" />
 
 (Музыка П.И Чайковского)
 
@@ -299,7 +299,7 @@
 
 ### С046 Антуан де Сент-Экзюпери "Маленький принц" с участием МАРИИ БАБАНОВОЙ
 
-<img width="1680" height="1100" alt="046-1100px" src="https://github.com/user-attachments/assets/714573e5-893e-460c-9d27-e3cb8a41ca19" />
+<img height="400" alt="046-1100px" src="https://github.com/user-attachments/assets/714573e5-893e-460c-9d27-e3cb8a41ca19" />
 
 (Эта прекрасная сказка учит детей добру, любви, умению дружить и заботится о близких. "Мы в ответе за тех, кого приручили).
 
@@ -313,7 +313,7 @@
 
 ### С048 "Маугли" с участием АРМЕНА ДЖИГАРХАНЯНА
 
-<img width="842" height="1260" alt="blank-casseta" src="https://github.com/user-attachments/assets/61d71082-cb25-46ee-8581-841230736d4d" />
+<img height="400" alt="blank-casseta" src="https://github.com/user-attachments/assets/61d71082-cb25-46ee-8581-841230736d4d" />
 
 (Самое известное детское произведение знаменитого английского писателя Редьярдя Киплинга).
 
@@ -327,7 +327,7 @@
 
 ### С050 "Классическая музыка для детей. Танцы"
 
-<img width="1685" height="1100" alt="050-1100px" src="https://github.com/user-attachments/assets/367eb98d-719a-4d45-88f3-72f66e3f667e" />
+<img height="400" alt="050-1100px" src="https://github.com/user-attachments/assets/367eb98d-719a-4d45-88f3-72f66e3f667e" />
 
 (Самые известные бальные и народные танцы - вальс, танго, пасодобль, румба, полька, тарантелла, а также танцы композиторов-классиков: Штрауса, Моцарта, Чайковского, Грига, Дворжака, Бетховена).
 
@@ -341,7 +341,7 @@
 
 ### С052 "Путешествие Нильса с дикими гусями" с участием АЛЕКСАНДРА БЕЛЯВСКОГО и НАТАЛЬИ КРАЧКОВСКОЙ
 
-<img width="1509" height="1100" alt="052-1100px" src="https://github.com/user-attachments/assets/bd4895b7-c025-433b-bd26-3f5a3171c9ce" />
+<img height="400" alt="052-1100px" src="https://github.com/user-attachments/assets/bd4895b7-c025-433b-bd26-3f5a3171c9ce" />
 
 (Сказка о невероятных приключениях мальчика Нильса и гуся Мартина. Нильс был не самым примерным мальчиком, но за время своего чудесного путешествия он сильно изменился: стал добрее, смелее и благороднее. По книге известной шведской писательницы Сельмы Лагерлеф).
 
@@ -367,7 +367,7 @@
 
 ### С058 "Мурли" с участием ВЕРЫ ВАСИЛЬЕВОЙ и АЛЕКСАНДРА ЛЕНЬКОВА
 
-<img width="1681" height="1100" alt="058-1100px" src="https://github.com/user-attachments/assets/2c364e39-a9fd-40f7-9213-a567bb874e50" />
+<img height="400" alt="058-1100px" src="https://github.com/user-attachments/assets/2c364e39-a9fd-40f7-9213-a567bb874e50" />
 
 (Удивительная сказка самой известной детской писательницы Нидерландов Анни Шмидт. Героиня превратилась из кошки в девушку, сохранив при этом кошачьи повадки, а также всех своих друзей кошек).
 
@@ -387,91 +387,91 @@
 
 ### 061 Серая Шейка, Снегурочка 🍎 todo
 
-<img width="1684" height="1100" alt="061-1100px" src="https://github.com/user-attachments/assets/a99ab46b-038b-4009-b40c-f7bc37f0e88b" />
+<img height="400" alt="061-1100px" src="https://github.com/user-attachments/assets/a99ab46b-038b-4009-b40c-f7bc37f0e88b" />
 
 
 
 ### 063 Конек-Горбунок 🍎 todo
 
-<img width="1684" height="1100" alt="063-1100px" src="https://github.com/user-attachments/assets/2eeaf73c-f0e6-4f49-b652-2dbc556f4832" />
+<img height="400" alt="063-1100px" src="https://github.com/user-attachments/assets/2eeaf73c-f0e6-4f49-b652-2dbc556f4832" />
 
 
 
 ### 067 Сказки перед сном - Н.Варлей
 
-<img width="841" height="1100" alt="067-1100px" src="https://github.com/user-attachments/assets/5d151522-a5d6-4d02-a731-e1148fc8e40a" />
+<img height="400" alt="067-1100px" src="https://github.com/user-attachments/assets/5d151522-a5d6-4d02-a731-e1148fc8e40a" />
 
 
 
 ### 071 Кошкин Дом, Теремок
 
-<img width="1688" height="1100" alt="071-1100px" src="https://github.com/user-attachments/assets/4e1c22f7-a2a5-483c-88bf-47ab74732d09" />
+<img height="400" alt="071-1100px" src="https://github.com/user-attachments/assets/4e1c22f7-a2a5-483c-88bf-47ab74732d09" />
 
 
 
 ### 072 - Музыкальные картинки
 
-<img width="1682" height="1100" alt="072-1100px" src="https://github.com/user-attachments/assets/6dd0dabd-7fa5-4b0b-b114-689eadb81fd0" />
+<img height="400" alt="072-1100px" src="https://github.com/user-attachments/assets/6dd0dabd-7fa5-4b0b-b114-689eadb81fd0" />
 
 
 
 ### 074 - Винни-Пух и Все, Все, все
 
-<img width="1686" height="1100" alt="074-1100px" src="https://github.com/user-attachments/assets/10455780-efcf-44ae-85b3-4edd28b1faaa" />
+<img height="400" alt="074-1100px" src="https://github.com/user-attachments/assets/10455780-efcf-44ae-85b3-4edd28b1faaa" />
 
 
 
 ### 079 - Снежная королева
 
-<img width="1685" height="1100" alt="079-1100px" src="https://github.com/user-attachments/assets/8a157955-7114-4d0b-a17c-aa917916da14" />
+<img height="400" alt="079-1100px" src="https://github.com/user-attachments/assets/8a157955-7114-4d0b-a17c-aa917916da14" />
 
 
 
 ### 080 - Кушай и слушай Н.Варлей
 
-<img width="1687" height="1100" alt="080-1100px" src="https://github.com/user-attachments/assets/c6f2f51b-0e39-472f-9b54-5d6ff7c7f63c" />
+<img height="400" alt="080-1100px" src="https://github.com/user-attachments/assets/c6f2f51b-0e39-472f-9b54-5d6ff7c7f63c" />
 
 
 
 ### 090 Белоснежка и семь гномов
 
-<img width="1688" height="1100" alt="090-1100px" src="https://github.com/user-attachments/assets/1374b30b-a3d0-47dc-b838-30dbe1601410" />
+<img height="400" alt="090-1100px" src="https://github.com/user-attachments/assets/1374b30b-a3d0-47dc-b838-30dbe1601410" />
 
 
 
 ### 097 - Госпожа метелица
 
-<img width="1693" height="1100" alt="097-1100px" src="https://github.com/user-attachments/assets/6251a4c6-2878-4e7f-ac34-06952c32ba7a" />
+<img height="400" alt="097-1100px" src="https://github.com/user-attachments/assets/6251a4c6-2878-4e7f-ac34-06952c32ba7a" />
 
 
 
 ### 099 Сказки о русских богатырях
 
-<img width="1687" height="1100" alt="099-1100px" src="https://github.com/user-attachments/assets/f46a5fd5-9dba-4bbb-86c0-2d4f8716f857" />
+<img height="400" alt="099-1100px" src="https://github.com/user-attachments/assets/f46a5fd5-9dba-4bbb-86c0-2d4f8716f857" />
 
 
 
 ### 101 Каштанка
 
-<img width="1691" height="1100" alt="101-1100px" src="https://github.com/user-attachments/assets/532b965f-8521-4cdb-862e-2bb827bb73cd" />
+<img height="400" alt="101-1100px" src="https://github.com/user-attachments/assets/532b965f-8521-4cdb-862e-2bb827bb73cd" />
 
 
 
 ### 105 Старик Хоттабыч
 
-<img width="1687" height="1100" alt="105-1100px" src="https://github.com/user-attachments/assets/bc3b80b3-3e55-41ce-89be-a34d876d6d2d" />
+<img height="400" alt="105-1100px" src="https://github.com/user-attachments/assets/bc3b80b3-3e55-41ce-89be-a34d876d6d2d" />
 
 
 
 ### 107 Сказка о Потерянном времени
 
-<img width="1694" height="1100" alt="107-1100px" src="https://github.com/user-attachments/assets/581c6f99-3b94-473d-8cd2-c6ce17465da0" />
+<img height="400" alt="107-1100px" src="https://github.com/user-attachments/assets/581c6f99-3b94-473d-8cd2-c6ce17465da0" />
 
 
 
 ### 999 - Маленький Мук и Карлик Нос ????
 
-<img width="656" height="1100" alt="muk-1100px" src="https://github.com/user-attachments/assets/422e0e83-61f1-4910-ae87-eaca072edd07" />
+<img height="400" alt="muk-1100px" src="https://github.com/user-attachments/assets/422e0e83-61f1-4910-ae87-eaca072edd07" />
 
 
 
