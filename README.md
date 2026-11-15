@@ -326,7 +326,9 @@
 
 ### DJ-C048 "Маугли" с участием АРМЕНА ДЖИГАРХАНЯНА
 
-<img height="400" src="https://github.com/user-attachments/assets/61d71082-cb25-46ee-8581-841230736d4d" />
+<img height="275" src="https://github.com/user-attachments/assets/2df6b077-fe79-4a8d-9807-5a3a44d9fa3f" />
+
+<img height="340" src="https://github.com/user-attachments/assets/09d10255-a08f-46ad-85df-74fa20103674" />
 
 (Самое известное детское произведение знаменитого английского писателя Редьярдя Киплинга).
 
